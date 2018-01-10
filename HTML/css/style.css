@@ -572,6 +572,10 @@ div.section.block.blog .hover a.readmore {
 /******************************************************************
 	About Us
 ******************************************************************/
+#profile_pic {
+	width: 340px;
+	height: 250px;
+}
 div.person {
 	width: 920px;
 	margin: 20px auto;
